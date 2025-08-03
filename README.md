@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I’m Jay Colon
 
-<!--
-**jcolon030/jcolon030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Engineering student at the University of Central Florida  
+💡 I enjoy building things that combine hardware and software  
+🔍 Currently exploring Python, C++, Verilog, and microcontroller projects  
+🌱 Always learning — especially about automation, APIs, and embedded systems  
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack
+- 💻 Python, C++, JavaScript, HTML/CSS
+- 🧠 Verilog, Digital Logic, MATLAB
+- ⚙️ Raspberry Pi, Git, VS Code, APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚧 Projects
+Currently working on a few personal tools and scripts — public repos coming soon!
+
+In the meantime, check out my [LinkedIn](https://www.linkedin.com/in/jay-colon-2a6258243/) or reach out if you want to collaborate on something cool.
+
+## 📫 Reach me here:
+[LinkedIn](https://www.linkedin.com/in/jay-colon-2a6258243/)  
+📍 Mount Dora / Orlando, FL
