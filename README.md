@@ -15,6 +15,6 @@ Currently working on a few personal tools and scripts — public repos coming so
 
 In the meantime, check out my [LinkedIn](https://www.linkedin.com/in/jay-colon-2a6258243/) or reach out if you want to collaborate on something cool.
 
-## 📫 Reach me here:
-[LinkedIn](https://www.linkedin.com/in/jay-colon-2a6258243/) [Instagram](https://www.instagram.com/jay.colon_)
+## 📫 Reach me here
+[LinkedIn](https://www.linkedin.com/in/jay-colon-2a6258243/) [Instagram](https://www.instagram.com/jay.colon_)    
 📍 Mount Dora / Orlando, FL
