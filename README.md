@@ -11,14 +11,11 @@ I'm passionate about software engineering, embedded systems, and building projec
 - Discord Community Management Bot
 - Arduino LiDAR Room Mapping System
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,python,js,ts,react,nextjs,supabase,postgres,mongodb,git,github,arduino&perline=6" />
+</p>
 
 ## 📊 GitHub Stats
 
