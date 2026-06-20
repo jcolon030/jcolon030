@@ -1,20 +1,30 @@
-# 👋 Hi, I’m Jay Colon
+# 👋 Hey, I'm Jay Colon
 
-🎓 I'm a Computer Engineering student at the University of Central Florida  
-💡 I enjoy building things that combine hardware and software  
-🔍 Currently exploring Python, C++, Verilog, and microcontroller projects  
-🌱 Always learning — especially about automation, APIs, and embedded systems  
+Computer Engineering Student @ UCF
 
-## 🧰 Tech Stack
-- 💻 Python, C++, JavaScript, HTML/CSS
-- 🧠 Verilog, Digital Logic, MATLAB
-- ⚙️ Raspberry Pi, Git, VS Code, APIs
+I'm passionate about software engineering, embedded systems, and building projects that solve real-world problems.
 
-## 🚧 Projects
-Currently working on a few personal tools and scripts — public repos coming soon!
+## 🚀 Current Projects
 
-In the meantime, check out my [LinkedIn](https://www.linkedin.com/in/jay-colon-2a6258243/) or reach out if you want to collaborate on something cool.
+- TechSassyGirlz Student Dashboard
+- UCF Parking Visualization App
+- Discord Community Management Bot
+- Arduino LiDAR Room Mapping System
 
-## 📫 Reach me here
-[LinkedIn](https://www.linkedin.com/in/jay-colon-2a6258243/) [Instagram](https://www.instagram.com/jay.colon_)    
-📍 Mount Dora / Orlando, FL
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+
+## 📊 GitHub Stats
+
+![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcolon030&show_icons=true)
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/jay-colon-2a6258243
+- GitHub: https://github.com/jcolon030
